@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#0000ff" height="105.999999" id="svg_27" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="157.000001" x="112.499999" y="28.5"/>
+  <text fill="#ffff00" font-family="serif" font-size="24" id="svg_2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1.3262 0 0 4.80257 -40.1947 -637.184)" x="169.052652" xml:space="preserve" y="157.76002">DAdeS</text>
+  <polygon cx="51.5" cy="17.5" fill="#000000" id="svg_5" orient="point" point="5" points="51.5,16.833333333333332 51.65674273394466,17.284262134833348 52.1340376775301,17.293988670416702 51.75361507101204,17.58240453183332 51.89185683486165,18.039344662916633 51.5,17.766666666666666 51.10814316513835,18.039344662916633 51.24638492898796,17.58240453183332 50.8659623224699,17.293988670416702 51.34325726605534,17.284262134833348 51.5,16.833333333333332 51.65674273394466,17.284262134833348 " r="0.666667" r2="0.266667" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000"/>
+  <polygon cx="20.5" cy="60.5" fill="#000000" id="svg_6" orient="point" point="5" points="20.5,60.5 20.5,60.5 20.5,60.5 20.5,60.5 20.5,60.5 20.5,60.5 20.5,60.5 20.5,60.5 20.5,60.5 20.5,60.5 20.5,60.5 20.5,60.5 " r="0" r2="0" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000"/>
+  <polygon cx="33.5" cy="51.5" fill="#000000" id="svg_7" orient="point" point="5" points="33.5,51.5 33.5,51.5 33.5,51.5 33.5,51.5 33.5,51.5 33.5,51.5 33.5,51.5 33.5,51.5 33.5,51.5 33.5,51.5 33.5,51.5 33.5,51.5 " r="0" r2="0" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000"/>
+  <polygon cx="64.5" cy="49.5" fill="#000000" id="svg_8" orient="point" point="5" points="64.5,49.5 64.5,49.5 64.5,49.5 64.5,49.5 64.5,49.5 64.5,49.5 64.5,49.5 64.5,49.5 64.5,49.5 64.5,49.5 64.5,49.5 64.5,49.5 " r="0" r2="0" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000"/>
+  <polygon cx="64.5" cy="6.5" fill="#000000" id="svg_9" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="0" strokecolor="#000000"/>
+  <polygon cx="97.5" cy="197.5" fill="#000000" id="svg_11" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="0" strokecolor="#000000"/>
+  <polygon cx="53.5" cy="22.5" fill="#000000" id="svg_13" orient="point" point="5" points="53.5,22.5 53.5,22.5 53.5,22.5 53.5,22.5 53.5,22.5 53.5,22.5 53.5,22.5 53.5,22.5 53.5,22.5 53.5,22.5 53.5,22.5 53.5,22.5 " r="0" r2="0" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000"/>
+  <polygon cx="137.5" cy="194.5" fill="#000000" id="svg_15" orient="point" point="5" points="137.5,125.5 137.5,125.5 137.5,125.5 137.5,125.5 137.5,125.5 137.5,125.5 137.5,125.5 137.5,125.5 137.5,125.5 137.5,125.5 137.5,125.5 137.5,125.5 " r="0" r2="0" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000"/>
+  <path d="m74.737798,82.659715l-42.807729,-42.852242l28.192268,0l42.807729,42.852242l-42.807729,42.852208l-28.192268,0l42.807729,-42.852208z" fill="#0000ff" id="svg_24" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" transform="rotate(180 67.43 82.66)"/>
+  <path d="m319.7378,84.65971l-42.80773,-42.85224l28.19227,0l42.80773,42.85224l-42.80773,42.85221l-28.19227,0l42.80773,-42.85221z" fill="#0000ff" id="svg_26" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+ </g>
+</svg>
